@@ -17,3 +17,5 @@
 - [ ] [OWASP Password Storage Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
 - [ ] [golang/org/x/bcrypt](https://pkg.go.dev/golang.org/x/crypto/bcrypt)
 - [ ] [커머스 코드 자산화 개발일지](https://www.popit.kr/%ec%bb%a4%eb%a8%b8%ec%8a%a4-%ec%bd%94%eb%93%9c-%ec%9e%90%ec%82%b0%ed%99%94-%ea%b0%9c%eb%b0%9c%ec%9d%bc%ec%a7%80-1-%ec%8b%9c%ec%9e%91/)
+- [ ] [The Modern JavaScript Tutorial](https://ko.javascript.info/)
+- [ ] [Bulma CSS framework](https://bulma.io/)
