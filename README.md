@@ -1,5 +1,10 @@
 # bookstore
 
+- [ ] [Practical Persistence in Go: SQL Databases](https://www.alexedwards.net/blog/practical-persistence-sql)
+- [ ] [Organising Database Access in Go](https://www.alexedwards.net/blog/organising-database-access)
+- [ ] [Configuring sql.DB for Better Performance](https://www.alexedwards.net/blog/configuring-sqldb)
+- [ ] [How to Manage Database Timeouts and Cancellations in Go](https://www.alexedwards.net/blog/how-to-manage-database-timeouts-and-cancellations-in-go)
+- [ ] [Working with Redis in Go](https://www.alexedwards.net/blog/working-with-redis)
 - [ ] [github 1인 개발 워크플로우 #1](https://www.huskyhoochu.com/issue-based-version-control-101/#question)
 - [ ] [github 1인 개발 워크플로우 #2](https://www.huskyhoochu.com/issue-based-version-control-201#review)
 - [ ] [[JWT] 토큰(Token) 기반 인증에 대한 소개](https://velopert.com/2350)
